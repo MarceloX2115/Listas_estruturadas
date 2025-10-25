@@ -42,32 +42,6 @@ Cada lista possui as operações básicas: - **Inserção** - **Remoção** -
 
 ------------------------------------------------------------------------
 
-## ▶️ Como Executar
-
-1.  **Clone o repositório**:
-
-    ``` bash
-    git clone https://github.com/seuusuario/listas-encadeadas-java.git
-    ```
-
-2.  **Abra o projeto** na sua IDE.
-
-3.  **Execute a classe `Main`** desejada:
-
-    -   `ListaSimples/MainListaSimples.java`
-    -   `ListaDupla/MainListaDupla.java`
-    -   `ListaCircular/MainListaCircular.java`
-
-4.  **Siga o menu interativo** no console para realizar as operações:
-
-        1 - Inserir
-        2 - Buscar
-        3 - Remover
-        4 - Listar
-        0 - Sair
-
-------------------------------------------------------------------------
-
 ## 🧠 Explicação das Estruturas
 
 ### 🔹 Lista Encadeada Simples
@@ -108,25 +82,6 @@ Exemplo visual:
 
 ------------------------------------------------------------------------
 
-## 📊 Comparativo das Estruturas
-
-  ------------------------------------------------------------------------
-  Tipo de Lista Ligações por   Direção   Último aponta    Vantagem
-                nó                       para             Principal
-  ------------- -------------- --------- ---------------- ----------------
-  Simples       Próximo        Frente    `null`           Estrutura
-                                                          simples e leve
-
-  Dupla         Próximo e      Ambos     `null`           Inserção e
-                Anterior                                  remoção mais
-                                                          fáceis
-
-  Circular      Próximo (ou    Cíclica   Primeiro         Ideal para
-                ambos)                                    ciclos contínuos
-  ------------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
 ## 💬 Exemplo de Execução
 
     --- LISTA ENCADEADA SIMPLES ---
@@ -146,27 +101,12 @@ Exemplo visual:
 
 ## 🏗️ Desenvolvido por
 
-**Aluno:** *\[Seu Nome\]*\
+**Aluno:** *\[Marcelo Sampaio \]*\
 **Curso:** Engenharia de Software\
 **Disciplina:** Estrutura de Dados\
-**Professor:** *\[Nome do Professor\]*
 
 ------------------------------------------------------------------------
 
 ## 🎥 Vídeo Demonstrativo
 
-🔗 Link: <https://youtu.be/seu-video-explicativo>
-
-------------------------------------------------------------------------
-
-## 💡 Observações
-
--   Nenhuma estrutura pronta da API Java foi utilizada.\
--   Todo o gerenciamento de nós foi feito manualmente com referências
-    (`next` / `previous`).\
--   Código comentado e organizado conforme boas práticas de POO.
-
-------------------------------------------------------------------------
-
-📅 **Entrega:** até **24/10/2025**\
-🏆 **Bônus:** +0,5 ponto se incluir interface gráfica (GUI)
+🔗 Link: <https://drive.google.com/file/d/1uWFX4ntNELudhmFvMTf7Bm1m_F0blOvY/view?usp=sharing>
